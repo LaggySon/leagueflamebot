@@ -1,0 +1,24 @@
+{
+  "name": "leagueflamebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "@sapphire/snowflake": "^3.0.0",
+    "axios": "^0.24.0",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^13.4.0",
+    "eslint": "^8.5.0",
+    "ffmpeg-static": "^4.4.0",
+    "google-tts-api": "^2.0.2",
+    "libsodium-wrappers": "^0.7.9"
+  }
+}
